@@ -1,0 +1,2 @@
+# QRGenrator
+generate the QR
